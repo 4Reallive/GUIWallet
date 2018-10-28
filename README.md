@@ -1,2 +1,4 @@
 # GUIWallet
-A GUI wallet for Celestial.
+Please check releases for downloads.
+
+Source code will get added in a few hours.
