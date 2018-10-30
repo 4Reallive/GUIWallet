@@ -1,4 +1,4 @@
 # GUIWallet
-Please check releases for downloads.
+Please check releases for beta downloads.
 
-Source code will get added in a few hours.
+Source code will get added when version 1 comes out.
