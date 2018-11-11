@@ -15,8 +15,8 @@ const (
 	numberTransactionsToDisplay = 20
 
 	// default remote node
-	defaultRemoteDaemonAddress = "celc.pubnodes.com"
+	defaultRemoteDaemonAddress = "celc.cnknight.club"
 	defaultRemoteDaemonPort    = "18236"
-	defaultRemoteDaemonName    = "celc.pubnodes.com"
+	defaultRemoteDaemonName    = "celc.cnknight.club"
 	defaultRemoteDaemonSSL     = false
 )
