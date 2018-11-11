@@ -9,7 +9,7 @@ package main
 const (
 	versionNest                 = "0.35"
 	urlCryptoCompareTRTL        = ""
-	logFileFilename             = "Celestial Wallet.log"
+	logFileFilename             = "Celestial-Wallet.log"
 	urlBlockExplorer            = "https://explorer.celestial.cash/"
 	dbFilename                  = "settings.db"
 	numberTransactionsToDisplay = 20
